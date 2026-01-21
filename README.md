@@ -1,0 +1,2 @@
+# 2048-Game-in-Python
+2048 game you have played very often in your smartphone. If you are not familiar with the game, it is highly recommended to first play the game so that you can understand the basic functioning of it.
